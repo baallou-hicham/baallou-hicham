@@ -19,5 +19,5 @@
 
 ## 📫 Contact Me
 - Email: baallou1996h@gmail.com  
-- LinkedIn: [linkedin.com/in/hicham-baâllou-125893175](https://www.linkedin.com/in/hicham-ba%C3%A2llou-125893175/)  
-- GitHub: [github.com/DevBallou](https://github.com/DevBallou)
+- LinkedIn: [linkedin.com/in/hicham-baallou](https://www.linkedin.com/in/hicham-baallou/)  
+- GitHub: [github.com/baallou-hicham](https://github.com/baallou-hicham)
