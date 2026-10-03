@@ -18,6 +18,6 @@
 - Worked on **complex projects** using microservices and REST APIs  
 
 ## 📫 Contact Me
-- Email: baallou1996h@gmail.com  
+- Email: hichambaallou@gmail.com  
 - LinkedIn: [linkedin.com/in/hicham-baallou](https://www.linkedin.com/in/hicham-baallou/)  
 - GitHub: [github.com/baallou-hicham](https://github.com/baallou-hicham)
